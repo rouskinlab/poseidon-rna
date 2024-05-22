@@ -3,6 +3,7 @@ import os
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
+
 def read_db_structures(filename):
     #only reads first structure
     # Open the .db file
